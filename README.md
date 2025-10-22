@@ -1,6 +1,8 @@
 # Algorithm
 An algorithm for sorting reels based on their niches
 
+ALso checkout other files these are for the https://colab.research.google.com/drive
+
 add cell 
 ```bash
 !pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118  # CUDA support
