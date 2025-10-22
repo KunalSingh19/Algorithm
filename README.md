@@ -173,7 +173,7 @@ print(f"Categorization complete. Final results saved to {output_csv} and {output
 print("Temporary files in /tmp have been cleaned up per video.")
 ```
 
-You can copy paste the code on blackbox or change code to change niches yourself current niches are based on emotions.
+You can copy paste the code on blackbox or change code yourself to change niches yourself current niches are based on emotions.
 
 
 
